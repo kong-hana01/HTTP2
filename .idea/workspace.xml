@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="995e9f53-6ec4-4069-916b-349cd89bc3d8" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/http2-server-evolve/http2-server-evolve/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/http2-server-evolve/http2-server-evolve/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/http2-server-evolve/http2-server-evolve/src/main/java/com/FSSN/server/server.java" beforeDir="false" afterPath="$PROJECT_DIR$/http2-server-evolve/http2-server-evolve/src/main/java/com/FSSN/server/server.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/http2-server-evolve/http2-server-evolve" />
+  </component>
+  <component name="ProjectId" id="2IRgdZF2hqJBF96ptI1Yhtg07kp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/user/Desktop/4-2 학습자료/풀스택서비스네트워킹/프로젝트/http2-server/http2-server/build.gradle"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="995e9f53-6ec4-4069-916b-349cd89bc3d8" name="Changes" comment="" />
+      <created>1670149897501</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670149897501</updated>
+      <workItem from="1670149898867" duration="12000" />
+      <workItem from="1670151575200" duration="62000" />
+      <workItem from="1670229032810" duration="102000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

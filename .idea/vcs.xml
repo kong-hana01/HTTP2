@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/client" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/enhanced_server/enhanced_server" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/http2-client" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/http2-server-evolve/enhanced_server" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/http2-server-evolve/http2-server-evolve" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/http2-server/http2-server" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/http2-server/server" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/server/server" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sever/server" vcs="Git" />
+  </component>
+</project>
